@@ -28,6 +28,10 @@ Power BI – Data visualization & dashboard creation
 Excel Dataset – Data source
 DAX (Data Analysis Expressions) – Calculations & measures
 
+🎨 Dashboard Preview
+<img width="970" height="536" alt="Mobile_Sales_Dashboard" src="https://github.com/user-attachments/assets/8b095ed7-07db-4c5c-aaf8-d212b14e0c70" />
+
+
 📊 Dashboard Insights
 
 📈 Sales show fluctuations across months with peak performance in mid-year
