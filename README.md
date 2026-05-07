@@ -38,4 +38,5 @@ DAX (Data Analysis Expressions) – Calculations & measures
 🏙️ Major contribution comes from metro cities like Bangalore, Hyderabad, Mumbai
 💳 Digital payments (UPI & Cards) dominate over cash transactions
 📱 Premium models like iPhone SE generate the highest revenue
-⭐ Majority of customers give ratings between 3 to 5
+⭐ Majority of customers give ratings between 3 to 5.
+
